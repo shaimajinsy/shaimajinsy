@@ -1,0 +1,2 @@
+# prjtfakenewschecker
+Project_fake_news_checker
